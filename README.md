@@ -11,3 +11,7 @@ The article highlights the disparity of women to men in software engineering- ma
 Patriarchal gender roles also play a part in the lack of diversity. Women are more likely to be the "caretaker," an unpaid role that greatly adds stress, causing many to drop out of the workforce. There is a stigma that women are "less dedicated" or more likely to "focus on family"- but they don't acknowledge the burden that being a caretaker has on someone. This stigma brings discrimination and hostile work environments, which in turn causes a lack of women in senior roles. 
 
 We would benefit greatly from more diverse teams; they have better business outcomes and more effective leadership. 
+
+=======
+
+This article is interesting because it really highlights the stark disparity in gender when it comes to the tech industry. I like how it highlights the importance of diversity in the workplace and that it uses a lot of statistics to support its arguments. My mother is a BI Engineer and she definitely notices this difference, so it was nice to see some confirming numbers. 
